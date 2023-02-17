@@ -1,0 +1,32 @@
+{
+  "Logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "Burger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "doordarsh.svg": {
+    "mime": "image/svg+xml"
+  },
+  "Postmates.svg": {
+    "mime": "image/svg+xml"
+  },
+  "Rappi.svg": {
+    "mime": "image/svg+xml"
+  },
+  "Grubhub.svg": {
+    "mime": "image/svg+xml"
+  },
+  "Bread.svg": {
+    "mime": "image/svg+xml"
+  },
+  "sm-burger.svg": {
+    "mime": "image/svg+xml"
+  },
+  "drink.svg": {
+    "mime": "image/svg+xml"
+  },
+  "desert.svg": {
+    "mime": "image/svg+xml"
+  }
+}
